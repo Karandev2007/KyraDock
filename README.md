@@ -1,5 +1,5 @@
 # KyraDock
-A compact, all-in-one smart desktop hub. It features a AI assistant, charging station, touchscreen interface and a built-in mini server all packed into a sleek, custom 3D-printed enclosure.
+A smart AI-powered device that acts as your personal assistant handling daily tasks, responding to voice commands, and managing a built-in mini server with ease.
 
 i've always wished to have an AI assistant by my side. I even built 3–4 prototypes, but they never worked well since everything depended on my laptop. This time, it will be fully independent, lets see how far i can take this ;)))
 
