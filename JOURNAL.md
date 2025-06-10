@@ -25,3 +25,7 @@ Location of [Amplifier Module Knob](https://robocraze.com/products/pam-8403-ampl
 Location of 5V Mini Fan:
 
 ![image](https://github.com/user-attachments/assets/9974a4f0-4c5b-4b7a-bdc3-378670575318)
+
+Made circuit diagram
+
+![alt text](CAD/circuit_image.png)
