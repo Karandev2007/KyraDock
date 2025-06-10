@@ -1,14 +1,14 @@
-### May 17
+### May 17 - time spend: 3 hours
 Finialized my Project Idea and name **KyraDock** and did some basic research.
-### May 18
+### May 18 - 19 - time spend: 7 hours
 Made over 5 3D concept models and started sourcing parts on quartzcomponents.
 ![raw](https://github.com/user-attachments/assets/4179ab3e-0551-4a9b-bc2f-37856004a8f7)
 ![brave_lgz8vYixLy](https://github.com/user-attachments/assets/b0dd2926-5d44-4129-b6a5-9759a9f25bd8)
-### May 20
+### May 20 - time spend: 50 mins
 Moved sourced parts from quartzcomponents to robocraze cause of payment gateway issues.
 
-### June 10
-Finalized design today:
+### June 10 - 5 hours
+Finalized design and components today:
 
 ![image](https://github.com/user-attachments/assets/b1281794-6326-4d11-bde6-e2756f29a3a1)
 
