@@ -9,6 +9,7 @@ Moved sourced parts from quartzcomponents to robocraze cause of payment gateway 
 
 ### June 10
 Finalized design today:
+
 ![image](https://github.com/user-attachments/assets/b1281794-6326-4d11-bde6-e2756f29a3a1)
 
 i didnt made holes for speaker, switch, mic and maybe a extra fan later, i will make holes according to me later with my dremel.
