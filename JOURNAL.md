@@ -7,7 +7,7 @@ Made over 5 3D concept models and started sourcing parts on quartzcomponents.
 ### May 20 - time spend: 50 mins
 Moved sourced parts from quartzcomponents to robocraze cause of payment gateway issues.
 
-### June 10 - 5 hours
+### June 10 - time spend: 5 hours
 Finalized design and components today:
 
 ![image](https://github.com/user-attachments/assets/b1281794-6326-4d11-bde6-e2756f29a3a1)
@@ -30,7 +30,7 @@ Made circuit diagram
 
 ![alt text](CAD/circuit_image.png)
 
+### June 12 - time spend: 4-5 hours
 Remake KyraDock Body:
-![image](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
 
-back cover still remaining to build
+![image](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
