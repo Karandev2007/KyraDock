@@ -31,7 +31,6 @@ Made circuit diagram
 ![alt text](CAD/circuit_image.png)
 
 Remake KyraDock Body:
-![image](https://github.com/user-attachments/assets/d5c663c0-53cb-45a7-8ced-2cd40d4bd46d)
+![image](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
 
 back cover still remaining to build
-
