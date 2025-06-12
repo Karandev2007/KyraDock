@@ -29,3 +29,9 @@ Location of 5V Mini Fan:
 Made circuit diagram
 
 ![alt text](CAD/circuit_image.png)
+
+Remake KyraDock Body:
+![image](https://github.com/user-attachments/assets/d5c663c0-53cb-45a7-8ced-2cd40d4bd46d)
+
+back cover still remaining to build
+
