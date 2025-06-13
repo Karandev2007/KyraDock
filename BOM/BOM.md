@@ -8,4 +8,4 @@
 | Raspberry Pi 4 Model B (8 GB) | ₹7429 | $86.79 | Main controller board | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-8-gb-ram?variant=40193825308825) |
 | USB Microphone | ₹567 | $6.58 | Audio input | [amazon](https://amzn.in/d/2ZB8z9S) |
 | 6 A SPDT Rocker Switch | ₹48 | $0.56 | Power ON/OFF control | [robocraze](https://robocraze.com/products/6-a-250v-3-pin-spdt-on-off-rocker-switch-jl-mrs-102-bk?variant=43223637393632) |
-| **Total** | **₹11,126** | **Approx $130** | | |
+| **Total** | **₹11,608** | **Approx $135** | | |
