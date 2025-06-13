@@ -5,6 +5,7 @@ i've always wished to have an AI assistant by my side. I even built 3–4 protot
 
 ![image](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![circuit_image](https://github.com/user-attachments/assets/afa9accb-38dd-4b0b-ab45-64b769153a92)
+![image](https://github.com/user-attachments/assets/03c074bd-53fd-4274-bc67-7f8b21d9e39f)
 
 
 --------------------------------------------------------------------------------------------------
