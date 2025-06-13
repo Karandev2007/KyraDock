@@ -16,8 +16,9 @@ BOM:
 | 5″ Inch HDMI Touch LCD | ₹2504 | $29.25 | Display + touch input | [robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
 | SanDisk 64 GB micro-SD Card | ₹569 | $6.60 | Storage for OS/apps | [amazon](https://amzn.in/d/4g1hGiB) |
 | HDMI to micro-HDMI Cable | ₹139 | $1.62 | For external use | [robocraze](https://robocraze.com/products/hdmi-to-micro-hdmi-cable?variant=40193636597913) |
-| PAM8403 & 2x 3 Watt Speakers | ₹254 | $2.95 | Audio output | [amazon](https://amzn.in/d/hXT9TYK) |
+| PAM8403 & 2x 3 Watt Speakers | ₹254 | $2.95 | Audio output | [amazon](https://amzn.in/d/0MeOyw5) |
+| AUX Male to Male cable | ₹145 | $1.68 | Audio output | [amazon](https://amzn.in/d/6R74bOm) |
 | Raspberry Pi 4 Model B (8 GB) | ₹7429 | $86.79 | Main controller board | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-8-gb-ram?variant=40193825308825) |
 | USB Microphone | ₹567 | $6.58 | Audio input | [amazon](https://amzn.in/d/2ZB8z9S) |
 | 6 A SPDT Rocker Switch | ₹48 | $0.56 | Power ON/OFF control | [robocraze](https://robocraze.com/products/6-a-250v-3-pin-spdt-on-off-rocker-switch-jl-mrs-102-bk?variant=43223637393632) |
-| **Total** | **₹11,608** | **Approx $135** | | |
+| **Total** | **₹11,735** | **Approx $137** | | |
