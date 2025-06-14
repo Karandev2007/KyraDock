@@ -36,6 +36,9 @@ Remake KyraDock Body:
 ![image](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
 
 
-Completed Back Lid
+Completed Back Lid time spend: 20-30 mins
 ![image](https://github.com/user-attachments/assets/2926423b-727c-4b78-94ee-d5ad6e72d3dd)
 ![image](https://github.com/user-attachments/assets/8a4dd21d-41cd-4d0d-a5ef-8451f106243b)
+
+### June 14 - time spend: 1-2 hours
+created new diagrams, circuits and added more material
