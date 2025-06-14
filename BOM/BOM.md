@@ -8,6 +8,7 @@
 | Ambrane Micro USB Cable | ₹149 | $1.73 | Power Input for Display | [amazon](https://amzn.in/d/fEbwvcv) |
 | Ambrane Type C USB Cable | ₹169 | $1.96 | Power Input for Raspberry Pi | [amazon](https://amzn.in/d/1RGyZ3g) |
 | Wrap Sheet Film | ₹288 | $3.34 | For KyraDock body | [amazon](https://amzn.in/d/ezTv9b7) |
+| Glue Sticks | ₹150 | $1.74 | Audio input | [amazon](https://amzn.in/d/bpFMA49) |
 | Raspberry Pi 4 Model B (8 GB) | ₹7429 | $86.79 | Main controller board | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-8-gb-ram?variant=40193825308825) |
 | USB Microphone | ₹567 | $6.58 | Audio input | [amazon](https://amzn.in/d/2ZB8z9S) |
-| **Total** | **₹12,166** | **Approx $142** | | |
+| **Total** | **₹12,316** | **Approx $143** | | |
