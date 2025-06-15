@@ -11,7 +11,7 @@
 
 ### May 18–19 — Time Spent: 7 hours
 
-* Designed over 5 different 3D concept models to explore potential ideas.
+* Designed some 3D concept models to explore potential ideas.
 * Started sourcing required components such as speaker, amplifier, switches, and fan on QuartzComponents.
 
 ![3D Models](https://github.com/user-attachments/assets/4179ab3e-0551-4a9b-bc2f-37856004a8f7)
