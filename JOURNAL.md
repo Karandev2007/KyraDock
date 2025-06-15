@@ -1,44 +1,64 @@
-### May 17 - time spend: 3 hours
-Finialized my Project Idea and name **KyraDock** and did some basic research.
-### May 18 - 19 - time spend: 7 hours
-Made over 5 3D concept models and started sourcing parts on quartzcomponents.
-![raw](https://github.com/user-attachments/assets/4179ab3e-0551-4a9b-bc2f-37856004a8f7)
-![brave_lgz8vYixLy](https://github.com/user-attachments/assets/b0dd2926-5d44-4129-b6a5-9759a9f25bd8)
-### May 20 - time spend: 50 mins
-Moved sourced parts from quartzcomponents to robocraze cause of payment gateway issues.
+# KyraDock Development Journal
 
-### June 10 - time spend: 5 hours
-Finalized design and components today:
+---
 
-![image](https://github.com/user-attachments/assets/b1281794-6326-4d11-bde6-e2756f29a3a1)
+### May 17 — Time Spent: 3 hours
 
-- i didnt made holes for speaker, switch, mic and maybe an extra fan later, i will make holes according to me later with my dremel.
+* Finalized the project idea and name: **KyraDock**, an AI-powered smart assistant dock.
+* Conducted initial research on features, necessary components, and design.
 
-Location of [single 0.5W Speaker - 2.5 inch](https://robocraze.com/products/0-5w-speaker?variant=40193361576089)
+---
 
-![image](https://github.com/user-attachments/assets/edc155c3-9aea-415b-b9cc-65d9a34f2e65)
+### May 18–19 — Time Spent: 7 hours
 
-Location of [Amplifier Module Knob](https://robocraze.com/products/pam-8403-amplifier-module?variant=40192902365337)
+* Designed over 5 different 3D concept models to explore potential ideas.
+* Started sourcing required components such as speaker, amplifier, switches, and fan on QuartzComponents.
 
-![image](https://github.com/user-attachments/assets/ce189196-1e38-4db3-a9d3-401323a427a1)
+![3D Models](https://github.com/user-attachments/assets/4179ab3e-0551-4a9b-bc2f-37856004a8f7)
+![3D Models](https://github.com/user-attachments/assets/b0dd2926-5d44-4129-b6a5-9759a9f25bd8)
 
-Location of 5V Mini Fan:
+---
 
-![image](https://github.com/user-attachments/assets/9974a4f0-4c5b-4b7a-bdc3-378670575318)
+### May 20 — Time Spent: 50 mins
 
-Made circuit diagram
+* Shifted component sourcing from QuartzComponents to RoboCraze due to payment gateway issues.
+---
 
-![alt text](CAD/circuit_image.png)
+### June 10 — Time Spent: 5 hours
 
-### June 12 - time spend: 4-5 hours
-Remake KyraDock Body:
+* Finalized the overall enclosure design and internal component layout.
+* Decided not to include holes for the speaker, switch, microphone, and exhaust fan in the CAD model, opting to manually drill them later using a dremel for more flexible placement.
+* Defined placement for key components:
 
-![image](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
+  * [3W x2 Speakers](https://amzn.in/d/aNKvVoh) positioned near the sides of body for sound output.
+  * 5V mini cooling fan mounted at the rear side for air exhaust.
 
+![Speaker](https://github.com/user-attachments/assets/3459c4a1-1c78-4695-b217-35222d38b8ac)
+![Fan](https://github.com/user-attachments/assets/9974a4f0-4c5b-4b7a-bdc3-378670575318)
 
-Completed Back Lid time spend: 20-30 mins
-![image](https://github.com/user-attachments/assets/2926423b-727c-4b78-94ee-d5ad6e72d3dd)
-![image](https://github.com/user-attachments/assets/8a4dd21d-41cd-4d0d-a5ef-8451f106243b)
+* Created an initial circuit diagram mapping connections between Raspberry Pi, amplifier, fan, and other component.
 
-### June 14 - time spend: 1-2 hours
-created new diagrams, circuits and added more material
+![Circuit](CAD/circuit_image.png)
+
+---
+
+### June 12 — Time Spent: 5 hours
+
+* Rebuilt the KyraDock enclosure to correct dimension mismatches and improve fit for components.
+* Adjusted Raspberry Pi and screen alignment to reduce extra space and made it more compact.
+
+**Back Lid Completed** — Time Spent: 20 mins
+
+* Created and fitted the back lid to enclose the assembly. Designed it to be detachable for future hardware modifications.
+
+![New Body](https://github.com/user-attachments/assets/83ff21b3-52e1-4513-a089-1ce18d0dc96b)
+![Lid](https://github.com/user-attachments/assets/2926423b-727c-4b78-94ee-d5ad6e72d3dd)
+![Lid](https://github.com/user-attachments/assets/8a4dd21d-41cd-4d0d-a5ef-8451f106243b)
+
+---
+
+### June 14 — Time Spent: 1 hours
+
+* Added additional components and finalized BOM.
+* Enhanced circuit diagram.
+![image](https://github.com/user-attachments/assets/21da881f-2749-48f7-a418-758b413d5d6e)
