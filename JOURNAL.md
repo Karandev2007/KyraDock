@@ -38,7 +38,7 @@
 
 * Created an initial circuit diagram mapping connections between Raspberry Pi, amplifier, fan, and other component.
 
-![Circuit](CAD/circuit_image.png)
+![image](https://github.com/user-attachments/assets/59f5c9cf-bad2-4793-bb12-8bf726c4bd31)
 
 ---
 
