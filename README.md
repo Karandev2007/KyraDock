@@ -4,7 +4,7 @@ A smart AI-powered device that acts as your personal assistant handling daily ta
 i've always wished to have an AI assistant by my side. I even built 3–4 prototypes, but they never worked well since everything depended on my laptop. This time, it will be fully independent, lets see how far i can take this ;)))
 
 ![image](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
-![circuit_image](https://github.com/user-attachments/assets/afa9accb-38dd-4b0b-ab45-64b769153a92)
+![image](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
 ![image](https://github.com/user-attachments/assets/03c074bd-53fd-4274-bc67-7f8b21d9e39f)
 
 
