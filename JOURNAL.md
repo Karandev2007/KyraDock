@@ -62,3 +62,6 @@
 * Added additional components and finalized BOM.
 * Enhanced circuit diagram.
 ![image](https://github.com/user-attachments/assets/21da881f-2749-48f7-a418-758b413d5d6e)
+
+
+Total time spent: 22.16 hours
