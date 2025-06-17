@@ -63,5 +63,7 @@
 * Enhanced circuit diagram.
 ![image](https://github.com/user-attachments/assets/21da881f-2749-48f7-a418-758b413d5d6e)
 
+### June 17 — Time Spent: 2 hours
+* Started work on Kyra assistant code, added basic wakeup word and ai question.
 
-Total time spent: 22.16 hours
+Total time spent: 24.16 hours
