@@ -1,5 +1,5 @@
 # KyraDock
-KyraDock is a smart, voice-activated assistant device — similar to an Echo Show, but built with freedom, speed, and customization in mind. It acts as a personal AI dock powered by advanced language models, designed to sit on your desk and respond instantly to your voice.
+KyraDock is a smart, voice-activated assistant device similar to Echo Show, but built with freedom, speed, and customization in mind. It acts as a personal AI dock powered by advanced language models, designed to sit on your desk and respond instantly to your commands.
 
 ## What KyraDock Does
 - Wake word activated – Say “Hey Kyra” to activate the assistant anytime.
@@ -13,18 +13,14 @@ KyraDock is a smart, voice-activated assistant device — similar to an Echo Sho
 ## How It Works
 1. Wake Word Detection (Offline)
 Kyra uses a local Picovoice model to detect "Hey Kyra" entirely offline. This keeps response time fast and your data private.
-
 2. Voice Recognition
 After the wake word, Kyra listens using your microphone and transcribes your speech using the Google Web Speech API.
-
 3. AI Brain (Groq API)
 The query command is sent to Groq’s API model for a natural and smart response.
-
 4. Text-to-Speech
 Kyra speaks the answer using pyttsx3, running in a dedicated thread to allow interruptions. So if you change your mind or issue a new command, she’ll stop and listen again.
-
-5. Background Commands & Server
-Kyra isn’t just for chatting. She also runs other background tasks – like controlling system functions or triggering remote actions. It includes a small powerful server allowing deploying web applications and control over them using GUI or Voice.
+5. **Commands & Built-in Server**
+Kyra isn’t just for chatting. She also runs other tasks like performing daily tasks example: alarm, weather updates, notification center, random facts & jokes and much more like controlling system functions or triggering remote actions. It includes a small powerful server allowing deploying web applications and control over them using GUI or Voice.
 
 ![image](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![image](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
