@@ -3,7 +3,7 @@ KyraDock is a smart, voice-activated assistant device — similar to an Echo Sho
 
 ## What KyraDock Does
 - Wake word activated – Say “Hey Kyra” to activate the assistant anytime.
-- Voice command listener – After the wake word, Kyra listens to your voice and understands your intent.
+- Voice command listener – After the wake word, Kyra listens to your commands and executes it.
 - AI-powered conversations – Uses Groq’s blazing-fast Mistral model to answer naturally and intelligently.
 - Smart talking – Speaks replies clearly using a female voice with interruption support (say “Hey Kyra” again to cut her off).
 - Performs tasks – Can run non-verbal actions like system controls, app launches, or custom commands silently using external API on KyraDock or main device (example my laptop)
@@ -12,13 +12,13 @@ KyraDock is a smart, voice-activated assistant device — similar to an Echo Sho
 
 ## How It Works
 1. Wake Word Detection (Offline)
-Kyra uses a local Picovoice model (.ppn) to detect "Hey Kyra" entirely offline. This keeps response time fast and your data private.
+Kyra uses a local Picovoice model to detect "Hey Kyra" entirely offline. This keeps response time fast and your data private.
 
 2. Voice Recognition
 After the wake word, Kyra listens using your microphone and transcribes your speech using the Google Web Speech API.
 
 3. AI Brain (Groq API)
-The command is sent to Groq’s API model for a natural and smart response.
+The query command is sent to Groq’s API model for a natural and smart response.
 
 4. Text-to-Speech
 Kyra speaks the answer using pyttsx3, running in a dedicated thread to allow interruptions. So if you change your mind or issue a new command, she’ll stop and listen again.
