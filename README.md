@@ -1,7 +1,30 @@
 # KyraDock
-A smart AI-powered device that acts as your personal assistant handling daily tasks, responding to voice commands, and managing a built-in mini server with ease.
+KyraDock is a smart, voice-activated assistant device — similar to an Echo Show, but built with freedom, speed, and customization in mind. It acts as a personal AI dock powered by advanced language models, designed to sit on your desk and respond instantly to your voice.
 
-i've always wished to have an AI assistant by my side. I even built 3–4 prototypes, but they never worked well since everything depended on my laptop. This time, it will be fully independent, lets see how far i can take this ;)))
+## What KyraDock Does
+- Wake word activated – Say “Hey Kyra” to activate the assistant anytime.
+- Voice command listener – After the wake word, Kyra listens to your voice and understands your intent.
+- AI-powered conversations – Uses Groq’s blazing-fast Mistral model to answer naturally and intelligently.
+- Smart talking – Speaks replies clearly using a female voice with interruption support (say “Hey Kyra” again to cut her off).
+- Performs tasks – Can run non-verbal actions like system controls, app launches, or custom commands silently using external API on KyraDock or main device (example my laptop)
+- External Control - Provides a external control over whole device using external API and web interface.
+- Built-in local server – Integrates with a small powerful server capable of hosting websites, applications, etc with GUI support and Voice support.
+
+## How It Works
+1. Wake Word Detection (Offline)
+Kyra uses a local Picovoice model (.ppn) to detect "Hey Kyra" entirely offline. This keeps response time fast and your data private.
+
+2. Voice Recognition
+After the wake word, Kyra listens using your microphone and transcribes your speech using the Google Web Speech API.
+
+3. AI Brain (Groq API)
+The command is sent to Groq’s API model for a natural and smart response.
+
+4. Text-to-Speech
+Kyra speaks the answer using pyttsx3, running in a dedicated thread to allow interruptions. So if you change your mind or issue a new command, she’ll stop and listen again.
+
+5. Background Commands & Server
+Kyra isn’t just for chatting. She also runs other background tasks – like controlling system functions or triggering remote actions. It includes a small powerful server allowing deploying web applications and control over them using GUI or Voice.
 
 ![image](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![image](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
