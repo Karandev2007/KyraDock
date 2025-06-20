@@ -1,4 +1,4 @@
-# KyraDock
+# 🧠 KyraDock - Smart AI Assistant Device 
 ![image](https://github.com/user-attachments/assets/12ef72bf-3db7-42b2-8812-86113db8ad3f)
 
 
