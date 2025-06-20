@@ -67,9 +67,9 @@ KyraDock isn’t just a gadget — it’s your own **programmable Smart device**
 | Ambrane USB Type-C Cable  | ₹169        | \$1.96      | Power Raspberry Pi           | [amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
 | Wrap Sheet Film           | ₹288        | \$3.34      | External Body Finish         | [amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
 | Glue Sticks               | ₹150        | \$1.74      | Assembly Work                | [amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| Raspberry Pi 4B (8GB)     | ₹7429       | \$86.79     | Main Controller Board        | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-8-gb-ram?variant=40193825308825)                           |
+| Raspberry Pi 4B (4GB)     | ₹5546       | \$64.05     | Main Controller Board        | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)                           |
 | USB Microphone            | ₹567        | \$6.58      | Voice Input                  | [amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                 | **₹12,316** | **\~\$143** | —                            | —                                                                                                                            |
+| **Total**                 | **₹12,316** | **\~\$120.26** | —                            | —                                                                                                                            |
 
 ---
 
