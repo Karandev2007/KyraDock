@@ -1,4 +1,5 @@
-# 🧠 KyraDock - Smart AI Assistant Device 
+# <img src="![image](https://github.com/user-attachments/assets/a8f2f3c1-0965-422e-9f21-fbb6588ca2df)
+" alt="KyraAI" width="25" height="25" /> KyraDock - Smart AI Assistant Device 
 ![image](https://github.com/user-attachments/assets/eb03c991-78ed-4b81-a80c-4fb855df30ae)
 
 **KyraDock** is a **developer-focused, AI-powered smart assistant device** — inspired by the **Amazon Echo Show**, but designed with full control, speed, and extensibility in mind. It’s a desktop dock running on a Raspberry Pi that merges a **personal voice assistant**, a **local server**, and **remote control capabilities**, all into one compact and customizable project.
