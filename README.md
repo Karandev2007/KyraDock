@@ -47,20 +47,20 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 
 ## 🧰 What You’ll Need (Bill of Materials)
 
-| Component                 | Price (INR) | Price (USD) | Purpose                      | Buy Link                                                                                                                     |
-| ------------------------- | ----------- | ----------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |                         |
-| 5″ HDMI Touch Screen      | ₹2504       | \$29.25     | Visual Display + Touch Input | [robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
-| 64GB SanDisk micro-SD     | ₹569        | \$6.60      | OS and storage               | [amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
-| HDMI to HDMI Cable  | ₹149        | \$1.72      | For Display                  | [amazon](https://amzn.in/d/6avwGWl)                                  |
-| Amazon Basics 3W Speakers | ₹272        | \$3.15      | Voice Output                 | [amazon](https://amzn.in/d/egND9wG)                                                                                          |
-| Ambrane Micro USB Cable   | ₹149        | \$1.73      | Power Display                | [amazon](https://amzn.in/d/fEbwvcv)                                                                                          |
-| Ambrane USB Type-C Cable  | ₹169        | \$1.96      | Power Raspberry Pi           | [amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
-| Wrap Sheet Film           | ₹288        | \$3.34      | External Body Finish         | [amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
-| Glue Sticks               | ₹150        | \$1.74      | Assembly Work                | [amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| USB Hub               | ₹279        | \$3.22      | For Extra USB Ports (Mic, Pendrive, Power supply)                | [amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| Raspberry Pi 3 Model A+     | ₹2558       | \$29.54     | Main Controller Board        | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)                           |
-| USB Microphone            | ₹567        | \$6.58      | Voice Input                  | [amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                 | **₹7015** | **\~\81.1** | —                            | —                                                                                                                            |
+| Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
+|--------------------------|-------------|-------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 5″ HDMI Touch Screen     | ₹2504       | $29.25      | Visual Display + Touch Input            | [Robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
+| 64GB SanDisk micro-SD    | ₹569        | $6.60       | OS and Storage                          | [Amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
+| HDMI to HDMI Cable       | ₹149        | $1.72       | For Display                             | [Amazon](https://amzn.in/d/6avwGWl)                                                                                          |
+| Amazon Basics 3W Speakers| ₹272        | $3.15       | Voice Output                            | [Amazon](https://amzn.in/d/egND9wG)                                                                                          |
+| Ambrane Micro USB Cable  | ₹149        | $1.73       | Power Display                           | [Amazon](https://amzn.in/d/fEbwvcv)                                                                                          |
+| Ambrane USB Type-C Cable | ₹169        | $1.96       | Power Raspberry Pi                      | [Amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
+| Wrap Sheet Film          | ₹288        | $3.34       | External Body Finish                    | [Amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
+| Glue Sticks              | ₹150        | $1.74       | Assembly Work                           | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
+| USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
+| Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)   |
+| USB Microphone           | ₹567        | $6.58       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
+| **Total**                | **₹7015**   | **~$81.10** | —                                       | —                                                                                                                            |
 
 ---
 
