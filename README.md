@@ -53,7 +53,7 @@
 | Wrap Sheet Film          | ₹288        | $3.34       | External Body Finish                    | [Amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
 | Glue Sticks              | ₹150        | $1.74       | Assembly Work                           | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
 | USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/aU5gpnw)                                                                                          |
-| Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)   |
+| Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-3-model-a?_pos=2&_psq=Raspberry+Pi+3+Model+A%2B&_ss=e&_v=1.0)   |
 | USB Microphone           | ₹567        | $6.58       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
 | **Total**                | **₹7,629**   | **$88.11** | —                                       | —                                                                                                                            |
 
