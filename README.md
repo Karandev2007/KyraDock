@@ -5,17 +5,17 @@
 
 # **KyraDock**
 
-**KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices.
+**KyraDock** is a smart, AI powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices.
 
 ---
 
-## **What Makes KyraDock Special**
+## **What Makes KyraDock Special?**
 
 * **Always on voice mode**:
   Say “Hey Kyra” to wake it anytime
 
 * **ChatBot Powered by AI**:
-  Kyra understands natural language and replies using fast cloud based AI (like Groq).
+  Kyra understands user language and replies using fast cloud based AI (like Groq).
 
 * **Voice Output**:
   Kyra speaks back using a realistic female voice. If she’s talking and you say “Hey Kyra” again, she’ll stop right away and listen.
