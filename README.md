@@ -3,49 +3,44 @@
 
 ---
 
-**KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices
+# **KyraDock**
 
-It’s designed for people who want something more powerful and private than a regular smart speaker with no locked-in software and no cloud dependency.
+**KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices.
 
 ---
 
 ## **What Makes KyraDock Special**
 
-KyraDock isn’t just another AI assistant. It’s a fully integrated smart assistant device built for developers and privacy-conscious users. Here's what makes it different:
+* **Always on voice mode**:
+  Say “Hey Kyra” to wake it anytime
 
-* **Always on voice mode**: 
-  Say “Hey Kyra” at any time to activate the assistant.
+* **ChatBot Powered by Cloud AI**:
+  Kyra understands natural language and replies using fast cloud based AI (like Groq).
 
-* **ChatBot**: 
-  Kyra understands natural speech and responds using a fast, conversational AI. It supports a LLM for quick replies and offline queries, with fallback to Groq’s API for more complex responses when needed.
+* **Voice Output**:
+  Kyra speaks back using a realistic female voice. If she’s talking and you say “Hey Kyra” again, she’ll stop right away and listen.
 
-* **Voice Output**: 
-  Kyra speaks with a realistic female voice. You can interrupt her mid-sentence by saying the wake word again, allowing fast and fluid interactions.
+* **Takes Real Actions**:
+  Kyra can fetch data (like jokes, facts, or weather), open apps, run scripts, control smart lights (Wi-Fi based), or call APIs to get things done.
 
-* **Performs Real Actions**: 
-  Kyra takes actions like fetching data (jokes,facts, or anyother local stored data), launching apps, managing the deployment environment, controlling smart home devices, or executing remote APIs actions.
+* **Modular and Extendable**:
+  You can add new features by writing simple Python based addons.
 
-* **Modular and Extendable**: 
-  You can expand Kyra’s capabilities with simple Python modules, REST APIs, or even build your own addons.
+* **Home Control Ready**:
+  KyraDock can control Wi-Fi smart lights, plugs, or switches with voice control.
 
-* **Home Control Ready**: 
-  KyraDock can control smart lights, switches, and other devices directly over Wi-Fi.
+* **NAS Server using Pendrive / Hard Drive**:
+  KyraDock can act as a mini NAS. Just plug in a USB drive or hard disk, and access your files over the network.
 
-* **Custom Deployment Environment**: 
-  KyraDock includes a local deployment environment that lets you run and manage apps, dashboards, and automation tools directly on the device. no internet required with a cool * powerful CLI support!!
+* **Remote Control Access**:
+  Comes with a mobile-friendly dashboard to control things remotely — run actions, trigger events, or check logs from anywhere.
 
-* **Remote Control Access**: 
-  A dedicated dashboard and mobile-friendly interface lets you control KyraDock remotely. allowing triggering actions, run scripts, or monitor your assistant in real time.
-
-* **Privacy First**: 
-  Wake word detection, basic speech processing, and even AI responses can run locally using lightweight models. Internet access is used only when needed, so your data & logs stay private.
-
-* **Built for Real-World Use**: 
-  KyraDock supports scheduled actions, background monitoring, interruptible flows, fallback voice AI & API's, and real-time remote triggers.
+* **Made for Real Use**:
+  KyraDock handles scheduled tasks, background monitoring, API calls, and voice commands that actually do something useful.
 
 ---
 
-## 🧰 What You’ll Need (Bill of Materials)
+## What You’ll Need (Bill of Materials)
 
 | Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
 |--------------------------|-------------|-------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -57,10 +52,10 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 | Ambrane USB Type-C Cable | ₹169        | $1.96       | Power Raspberry Pi                      | [Amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
 | Wrap Sheet Film          | ₹288        | $3.34       | External Body Finish                    | [Amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
 | Glue Sticks              | ₹150        | $1.74       | Assembly Work                           | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
+| USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/aU5gpnw)                                                                                          |
 | Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)   |
 | USB Microphone           | ₹567        | $6.58       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                | **₹7015**   | **~$81.10** | —                                       | —                                                                                                                            |
+| **Total**                | **₹7,629**   | **$88.11** | —                                       | —                                                                                                                            |
 
 ---
 
