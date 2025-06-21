@@ -14,7 +14,7 @@
 * **Always on voice mode**:
   Say “Hey Kyra” to wake it anytime
 
-* **ChatBot Powered by Cloud AI**:
+* **ChatBot Powered by AI**:
   Kyra understands natural language and replies using fast cloud based AI (like Groq).
 
 * **Voice Output**:
@@ -30,10 +30,10 @@
   KyraDock can control Wi-Fi smart lights, plugs, or switches with voice control.
 
 * **NAS Server using Pendrive / Hard Drive**:
-  KyraDock can act as a mini NAS. Just plug in a USB drive or hard disk, and access your files over the network.
+  KyraDock can act as a mini NAS. just plug in a USB drive or hard disk, and access your files over the network.
 
 * **Remote Control Access**:
-  Comes with a mobile-friendly dashboard to control things remotely — run actions, trigger events, or check logs from anywhere.
+  Comes with a mobile-friendly dashboard to control things remotely like run actions, trigger events, or check logs from anywhere.
 
 * **Made for Real Use**:
   KyraDock handles scheduled tasks, background monitoring, API calls, and voice commands that actually do something useful.
