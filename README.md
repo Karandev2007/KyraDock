@@ -3,8 +3,6 @@
 
 ---
 
-# **KyraDoc**
-
 **KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices
 
 It’s designed for people who want something more powerful and private than a regular smart speaker with no locked-in software and no cloud dependency.
@@ -50,23 +48,23 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 ## 🧰 What You’ll Need (Bill of Materials)
 
 | Component                 | Price (INR) | Price (USD) | Purpose                      | Buy Link                                                                                                                     |
-| ------------------------- | ----------- | ----------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 5V Mini Fan               | ₹80         | \$0.93      | Cooling Raspberry Pi         | [robocraze](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873)                              |
+| ------------------------- | ----------- | ----------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |                         |
 | 5″ HDMI Touch Screen      | ₹2504       | \$29.25     | Visual Display + Touch Input | [robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
 | 64GB SanDisk micro-SD     | ₹569        | \$6.60      | OS and storage               | [amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
-| HDMI to Micro-HDMI Cable  | ₹139        | \$1.62      | For Display                  | [robocraze](https://robocraze.com/products/hdmi-to-micro-hdmi-cable?variant=40193636597913)                                  |
+| HDMI to HDMI Cable  | ₹149        | \$1.72      | For Display                  | [amazon](https://amzn.in/d/6avwGWl)                                  |
 | Amazon Basics 3W Speakers | ₹272        | \$3.15      | Voice Output                 | [amazon](https://amzn.in/d/egND9wG)                                                                                          |
 | Ambrane Micro USB Cable   | ₹149        | \$1.73      | Power Display                | [amazon](https://amzn.in/d/fEbwvcv)                                                                                          |
 | Ambrane USB Type-C Cable  | ₹169        | \$1.96      | Power Raspberry Pi           | [amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
 | Wrap Sheet Film           | ₹288        | \$3.34      | External Body Finish         | [amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
 | Glue Sticks               | ₹150        | \$1.74      | Assembly Work                | [amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| Raspberry Pi 4B (4GB)     | ₹5546       | \$64.05     | Main Controller Board        | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)                           |
+| USB Hub               | ₹279        | \$3.22      | For Extra USB Ports (Mic, Pendrive, Power supply)                | [amazon](https://amzn.in/d/bpFMA49)                                                                                          |
+| Raspberry Pi 3 Model A+     | ₹2558       | \$29.54     | Main Controller Board        | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?_pos=3&_psq=Raspberry+Pi+4+Model+B&_ss=e&_v=1.0)                           |
 | USB Microphone            | ₹567        | \$6.58      | Voice Input                  | [amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                 | **₹10,412** | **\~\$120.26** | —                            | —                                                                                                                            |
+| **Total**                 | **₹7015** | **\~\81.1** | —                            | —                                                                                                                            |
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![KyraDock](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![KyraDock](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
