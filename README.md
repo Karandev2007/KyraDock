@@ -3,8 +3,6 @@
 
 ---
 
-# **KyraDock**
-
 **KyraDock** is a smart, AI powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices.
 
 ---
