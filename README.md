@@ -5,10 +5,9 @@
 
 # **KyraDock**
 
-**KyraDock** is a **developer-focused, AI-powered smart assistant device** — inspired by the **Amazon Echo Show**, but designed with full control, speed, and extensibility in mind. It’s a desktop dock running on a Raspberry Pi that merges a **personal voice assistant**, a **Custom Deployment Environment**, **remote control capabilities**, and even **local smart home control**, all into one compact and customizable project.
+**KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices
 
-KyraDock isn’t just a gadget — it’s your own **programmable Smart device**, ready for natural conversations, silent task execution, system automation, home integrations, and advanced control via voice or remote app. Think of it as **your own Echo Show, built for developers**.
-
+It’s designed for people who want something more powerful and private than a regular smart speaker — with no locked-in software and no cloud dependency.
 ---
 
 ## **What Makes KyraDock Special**
@@ -44,31 +43,6 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 
 * **Built for Real-World Use**: 
   KyraDock supports scheduled actions, background monitoring, interruptible flows, fallback voice AI, and real-time remote triggers.
-
----
-
-## How KyraDock Works
-
-1. **Wake Word Detection (Offline)**: Uses a local voice model to continuously listen for “Hey Kyra” without sending any data online.
-
-2. **Speech Recognition**: After activation, Kyra can transcribe your speech using a local engine or fallback to Google Web Speech for higher accuracy when needed.
-
-3. **AI Processing**: Handles basic replies locally using a TinyLLM model. For more advanced tasks or fallback, Kyra uses Groq’s API.
-
-4. **Natural Voice Output**: Kyra responds using pyttsx3 with a soft, human-like voice. She speaks naturally and lets you interrupt at any time by saying the wake word again.
-
-5. **Task Handling and Execution**: Kyra can perform a wide range of actions, such as:
-
-   * Launching programs or tools
-   * Fetching data or weather info
-   * Activity tracking
-   * Home control
-   * Controlling your PC or other devices
-   * Notification Center & Smart Reminders, alarms
-
-6. **Built-In Custom Deployment Environment**: At the core of KyraDock is a built-in Custom Deployment Environment offering user to host, control, keep track and more of its applications with local access and advance CLI & SSH support.
-
-7. **External Control Interface**: KyraDock will support a full-featured external dashboard and mobile app. This brings all local APIs and functions to your fingertips for secure, real-time control from anywhere.
 
 ---
 
