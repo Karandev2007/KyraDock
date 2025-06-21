@@ -1,56 +1,83 @@
 # <img src="https://github.com/user-attachments/assets/a8f2f3c1-0965-422e-9f21-fbb6588ca2df" alt="KyraAI" width="25" height="25" /> KyraDock - Smart AI Assistant Device 
 ![image](https://github.com/user-attachments/assets/eb03c991-78ed-4b81-a80c-4fb855df30ae)
 
-**KyraDock** is a **developer-focused, AI-powered smart assistant device** — inspired by the **Amazon Echo Show**, but designed with full control, speed, and extensibility in mind. It’s a desktop dock running on a Raspberry Pi that merges a **personal voice assistant**, a **local server**, and **remote control capabilities**, all into one compact and customizable project.
-
-KyraDock isn’t just a gadget — it’s your own **programmable Smart device**, ready for natural conversations, silent task execution, system automation, and advanced integrations via voice or remote app. Think of it as **your own Echo Show, built for developers**.
+Here’s the updated version with **Home Control** added naturally into the **About** and **What Makes KyraDock Special** sections, while keeping your original tone and flow:
 
 ---
 
-## 🔥 What Makes KyraDock Special?
+# **KyraDock**
 
-* 🔊 **Voice-Activated Smart Assistant** – Say “Hey Kyra” anytime to trigger the assistant and start speaking.
-* 💬 **AI Conversations** – Get fast, smart replies powered by Groq’s Mistral model — ideal for productivity, reminders, search, and more.
-* 🔁 **Interruptible Speaking** – Kyra speaks naturally with a female voice and can be interrupted anytime by saying the wake word again.
-* 🛠️ **Performs Tasks** – From telling the weather to launching apps, controlling system functions, or running remote APIs — Kyra gets it done.
-* 📡 **Built-in Server** – Includes a local web server to run applications, tools, or custom dashboards with GUI or voice access.
-* 🧠 **Developer-Friendly** – Easily extend Kyra’s abilities with Python modules, APIs, or even voice-driven automation workflows.
-* 🔧 **Modular Architecture** – Built to be modified. Add your own commands, connect devices, or expand it into a full home automation hub.
-* 📱 **External Control Interface (Coming Soon)** – Control KyraDock remotely using a companion app or web dashboard to trigger any function — whether you’re across the room or across the world.
+**KyraDock** is a **developer-focused, AI-powered smart assistant device** — inspired by the **Amazon Echo Show**, but designed with full control, speed, and extensibility in mind. It’s a desktop dock running on a Raspberry Pi that merges a **personal voice assistant**, a **Custom Deployment Environment**, **remote control capabilities**, and even **local smart home control**, all into one compact and customizable project.
+
+KyraDock isn’t just a gadget — it’s your own **programmable Smart device**, ready for natural conversations, silent task execution, system automation, home integrations, and advanced control via voice or remote app. Think of it as **your own Echo Show, built for developers**.
 
 ---
 
-## 🧠 How KyraDock Works
+## **What Makes KyraDock Special**
+
+KyraDock isn’t just another AI assistant. It’s a fully integrated smart assistant device built for developers and privacy-conscious users. Here's what makes it different:
+
+* **Always-On Voice Activation**
+  Say “Hey Kyra” at any time to activate the assistant. No buttons, no taps, just your voice.
+
+* **Conversational AI, On Your Terms**
+  Kyra understands natural speech and responds using a fast, conversational AI. It supports a local language model for quick replies and offline queries, with fallback to Groq’s API for more complex responses when needed.
+
+* **Interruptible, Natural Voice Output**
+  Kyra speaks with a realistic female voice. You can interrupt her mid-sentence by saying the wake word again, allowing fast and fluid interactions.
+
+* **Performs Real Actions**
+  Kyra isn’t just about chat. She takes action. Whether it’s fetching the data, launching apps, managing the deployment environment, controlling smart home devices, or executing remote APIs.
+
+* **Modular and Extendable**
+  You can expand Kyra’s capabilities with simple Python modules, REST APIs, or even build your own addons.
+
+* **Home Control Ready**
+  KyraDock can control smart lights, switches, and other devices directly over Wi-Fi, no cloud or hub required. Perfect for private, local automation.
+
+* **Custom Deployment Environment**
+  KyraDock includes a local deployment environment that lets you run and manage apps, dashboards, and automation tools directly on the device. No VPS or internet required — with a cool CLI support!
+
+* **Remote Control Built In**
+  A dedicated dashboard and mobile-friendly interface lets you control KyraDock remotely. Whether you're nearby or far away, you can trigger actions, run scripts, or monitor your assistant in real time.
+
+* **Privacy First**
+  Wake word detection, basic speech processing, and even AI responses can run locally using lightweight models. Internet access is used only when needed, so your commands stay private.
+
+* **Built for Real-World Use**
+  KyraDock supports scheduled actions, background monitoring, interruptible flows, fallback voice AI, and real-time remote triggers.
+
+---
+
+## How KyraDock Works
 
 1. **Wake Word Detection (Offline)**
-   Uses a lightweight **Picovoice model** to listen for “Hey Kyra” – ensuring privacy and fast response.
+   Uses a local voice model to continuously listen for “Hey Kyra” without sending any data online.
 
-2. **Speech-to-Text (Google Web Speech)**
-   After wake-up, Kyra uses the **Google Speech API** to understand what you say.
+2. **Speech Recognition**
+   After activation, Kyra can transcribe your speech using a local engine or fallback to Google Web Speech for higher accuracy when needed.
 
-3. **Smart AI Reply (Groq API)**
-   Your spoken command is sent to **Groq's Mistral model**, a lightning-fast AI, which generates an intelligent reply.
+3. **AI Processing**
+   Handles basic replies locally using a TinyLLM model. For more advanced tasks or fallback, Kyra uses Groq’s API.
 
-4. **Speech Output (pyttsx3)**
-   Kyra replies using a **female voice** with interrupt support — you can say “Hey Kyra” mid-sentence to stop her and change your command.
+4. **Natural Voice Output**
+   Kyra responds using pyttsx3 with a soft, human-like voice. She speaks naturally and lets you interrupt at any time by saying the wake word again.
 
-5. **Command Processing & Task Execution**
-   Kyra can silently carry out actions like:
+5. **Task Handling and Execution**
+   Kyra can perform a wide range of actions, such as:
 
-   * Telling the weather, jokes, or facts
-   * Launching apps
-   * Running APIs or system functions
-   * Acting as a local voice interface for your own tools
+   * Launching programs or tools
+   * Fetching data or weather info
+   * Activity tracking
+   * Home control
+   * Controlling your PC or other devices
+   * Notification Center & Smart Reminders, alarms
 
-6. **Local Web Server**
-   KyraDock runs a lightweight **local server** with GUI + voice support. It can host:
+6. **Built-In Custom Deployment Environment**
+   At the core of KyraDock is a built-in Custom Deployment Environment offering user to host, control, keep track and more of its applications with local access and advance CLI & SSH support.
 
-   * Web apps or dashboards
-   * Control panels
-   * Custom automation tools
-
-7. **External Control (Upcoming)**
-   KyraDock will soon support a **remote companion app or web dashboard**, giving you external control of everything on the device — like a smart home control center, but developer-owned and locally run.
+7. **External Control Interface**
+   KyraDock will support a full-featured external dashboard and mobile app. This brings all local APIs and functions to your fingertips for secure, real-time control from anywhere.
 
 ---
 
