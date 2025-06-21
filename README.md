@@ -62,5 +62,5 @@
 ## Preview
 
 ![KyraDock](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
-![KyraDock](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
+![image](https://github.com/user-attachments/assets/28b1ef70-ddf2-4402-82d3-cc3649cf29c0)
 ![KyraDock](https://github.com/user-attachments/assets/03c074bd-53fd-4274-bc67-7f8b21d9e39f)
