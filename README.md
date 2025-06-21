@@ -49,25 +49,15 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 
 ## How KyraDock Works
 
-1. **Wake Word Detection (Offline)**
-   
-   Uses a local voice model to continuously listen for “Hey Kyra” without sending any data online.
+1. **Wake Word Detection (Offline)**: Uses a local voice model to continuously listen for “Hey Kyra” without sending any data online.
 
-2. **Speech Recognition**
-   
-   After activation, Kyra can transcribe your speech using a local engine or fallback to Google Web Speech for higher accuracy when needed.
+2. **Speech Recognition**: After activation, Kyra can transcribe your speech using a local engine or fallback to Google Web Speech for higher accuracy when needed.
 
-3. **AI Processing**
-   
-   Handles basic replies locally using a TinyLLM model. For more advanced tasks or fallback, Kyra uses Groq’s API.
+3. **AI Processing**: Handles basic replies locally using a TinyLLM model. For more advanced tasks or fallback, Kyra uses Groq’s API.
 
-4. **Natural Voice Output**
-   
-   Kyra responds using pyttsx3 with a soft, human-like voice. She speaks naturally and lets you interrupt at any time by saying the wake word again.
+4. **Natural Voice Output**: Kyra responds using pyttsx3 with a soft, human-like voice. She speaks naturally and lets you interrupt at any time by saying the wake word again.
 
-5. **Task Handling and Execution**
-    
-   Kyra can perform a wide range of actions, such as:
+5. **Task Handling and Execution**: Kyra can perform a wide range of actions, such as:
 
    * Launching programs or tools
    * Fetching data or weather info
@@ -76,13 +66,9 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
    * Controlling your PC or other devices
    * Notification Center & Smart Reminders, alarms
 
-6. **Built-In Custom Deployment Environment**
-    
-   At the core of KyraDock is a built-in Custom Deployment Environment offering user to host, control, keep track and more of its applications with local access and advance CLI & SSH support.
+6. **Built-In Custom Deployment Environment**: At the core of KyraDock is a built-in Custom Deployment Environment offering user to host, control, keep track and more of its applications with local access and advance CLI & SSH support.
 
-7. **External Control Interface**
-    
-   KyraDock will support a full-featured external dashboard and mobile app. This brings all local APIs and functions to your fingertips for secure, real-time control from anywhere.
+7. **External Control Interface**: KyraDock will support a full-featured external dashboard and mobile app. This brings all local APIs and functions to your fingertips for secure, real-time control from anywhere.
 
 ---
 
