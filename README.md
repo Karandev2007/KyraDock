@@ -7,42 +7,43 @@
 
 **KyraDock** is a smart, AI-powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices
 
-It’s designed for people who want something more powerful and private than a regular smart speaker — with no locked-in software and no cloud dependency.
+It’s designed for people who want something more powerful and private than a regular smart speaker with no locked-in software and no cloud dependency.
+
 ---
 
 ## **What Makes KyraDock Special**
 
 KyraDock isn’t just another AI assistant. It’s a fully integrated smart assistant device built for developers and privacy-conscious users. Here's what makes it different:
 
-* **Always-On Voice Activation**: 
-  Say “Hey Kyra” at any time to activate the assistant. No buttons, no taps, just your voice.
+* **Always on voice mode**: 
+  Say “Hey Kyra” at any time to activate the assistant.
 
-* **Conversational AI, On Your Terms**: 
-  Kyra understands natural speech and responds using a fast, conversational AI. It supports a local language model for quick replies and offline queries, with fallback to Groq’s API for more complex responses when needed.
+* **ChatBot**: 
+  Kyra understands natural speech and responds using a fast, conversational AI. It supports a LLM for quick replies and offline queries, with fallback to Groq’s API for more complex responses when needed.
 
-* **Interruptible, Natural Voice Output**: 
+* **Voice Output**: 
   Kyra speaks with a realistic female voice. You can interrupt her mid-sentence by saying the wake word again, allowing fast and fluid interactions.
 
 * **Performs Real Actions**: 
-  Kyra isn’t just about chat. She takes action. Whether it’s fetching the data, launching apps, managing the deployment environment, controlling smart home devices, or executing remote APIs.
+  Kyra takes actions like fetching data (jokes,facts, or anyother local stored data), launching apps, managing the deployment environment, controlling smart home devices, or executing remote APIs actions.
 
 * **Modular and Extendable**: 
   You can expand Kyra’s capabilities with simple Python modules, REST APIs, or even build your own addons.
 
 * **Home Control Ready**: 
-  KyraDock can control smart lights, switches, and other devices directly over Wi-Fi, no cloud or hub required. Perfect for private, local automation.
+  KyraDock can control smart lights, switches, and other devices directly over Wi-Fi.
 
 * **Custom Deployment Environment**: 
-  KyraDock includes a local deployment environment that lets you run and manage apps, dashboards, and automation tools directly on the device. No VPS or internet required — with a cool CLI support!
+  KyraDock includes a local deployment environment that lets you run and manage apps, dashboards, and automation tools directly on the device. no internet required with a cool * powerful CLI support!!
 
-* **Remote Control Built In**: 
-  A dedicated dashboard and mobile-friendly interface lets you control KyraDock remotely. Whether you're nearby or far away, you can trigger actions, run scripts, or monitor your assistant in real time.
+* **Remote Control Access**: 
+  A dedicated dashboard and mobile-friendly interface lets you control KyraDock remotely. allowing triggering actions, run scripts, or monitor your assistant in real time.
 
 * **Privacy First**: 
-  Wake word detection, basic speech processing, and even AI responses can run locally using lightweight models. Internet access is used only when needed, so your commands stay private.
+  Wake word detection, basic speech processing, and even AI responses can run locally using lightweight models. Internet access is used only when needed, so your data & logs stay private.
 
 * **Built for Real-World Use**: 
-  KyraDock supports scheduled actions, background monitoring, interruptible flows, fallback voice AI, and real-time remote triggers.
+  KyraDock supports scheduled actions, background monitoring, interruptible flows, fallback voice AI & API's, and real-time remote triggers.
 
 ---
 
