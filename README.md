@@ -11,7 +11,7 @@ It’s designed for people who want something more powerful and private than a r
 
 ---
 
-## **What Makes KyraDock Special**
+## **What Makes KyraDock Special?**
 
 KyraDock isn’t just another AI assistant. It’s a fully integrated smart assistant device built for developers and privacy-conscious users. Here's what makes it different:
 
@@ -47,7 +47,7 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 
 ---
 
-## 🧰 What You’ll Need (Bill of Materials)
+## BOM
 
 | Component                 | Price (INR) | Price (USD) | Purpose                      | Buy Link                                                                                                                     |
 | ------------------------- | ----------- | ----------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -66,7 +66,7 @@ KyraDock isn’t just another AI assistant. It’s a fully integrated smart assi
 
 ---
 
-## 📸 Preview
+## Previews
 
 ![KyraDock](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![KyraDock](https://github.com/user-attachments/assets/f74e9a25-acca-4d3e-aadd-b86518e19e96)
