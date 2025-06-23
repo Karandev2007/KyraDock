@@ -65,10 +65,15 @@
 ![image](https://github.com/user-attachments/assets/ab883245-ec28-4d68-8e75-16a655841da5)
 
 ---
-
+## CAD Models
 [Kyra Body Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyra_body.stl)
+
 [Kyra Back Lid Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyra_lid.step)
+
 [Kyra assembled with all components](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyradock-with-components.stl)
+
 [RaspberryPi 3 A+ Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/RaspberryPi%203%20A%2B.stl)
+
 [5' Inch Touch Screen Display](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/5inch%20Touch%20Screen%20LCD.STL)
+
 [5V Mini Cooling Fan Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/5V%20DC%20Fan%2050x50x12.stl)
