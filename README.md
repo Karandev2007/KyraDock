@@ -42,6 +42,7 @@
 
 | Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
 |--------------------------|-------------|-------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 5V Mini Cooling Fan     | ₹80       | $0.93      | Cooling Raspberry Pi	            | [Robocraze](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873) |
 | 5″ HDMI Touch Screen     | ₹2504       | $29.25      | Visual Display + Touch Input            | [Robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
 | 64GB SanDisk micro-SD    | ₹569        | $6.60       | OS and Storage                          | [Amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
 | HDMI to HDMI Cable       | ₹149        | $1.72       | For Display                             | [Amazon](https://amzn.in/d/6avwGWl)                                                                                          |
@@ -53,7 +54,7 @@
 | USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/aU5gpnw)                                                                                          |
 | Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-3-model-a?_pos=2&_psq=Raspberry+Pi+3+Model+A%2B&_ss=e&_v=1.0)   |
 | USB Microphone           | ₹567        | $6.58       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                | **₹7,629**   | **$88.11** | —                                       | —                                                                                                                            |
+| **Total**                | **₹7,709**   | **$89.32** | —                                       | —                                                                                                                            |
 
 ---
 
@@ -62,3 +63,12 @@
 ![KyraDock](https://github.com/user-attachments/assets/847d73e6-36cc-4ed2-a811-5bd93344610f)
 ![image](https://github.com/user-attachments/assets/21e7c5c8-8f8c-466d-91fa-511e4f9c630c)
 ![image](https://github.com/user-attachments/assets/ab883245-ec28-4d68-8e75-16a655841da5)
+
+---
+
+[Kyra Body Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyra_body.stl)
+[Kyra Back Lid Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyra_lid.step)
+[Kyra assembled with all components](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/kyradock-with-components.stl)
+[RaspberryPi 3 A+ Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/RaspberryPi%203%20A%2B.stl)
+[5' Inch Touch Screen Display](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/5inch%20Touch%20Screen%20LCD.STL)
+[5V Mini Cooling Fan Model](https://github.com/Karandev2007/KyraDock/blob/remake/CAD/dummy%20parts/5V%20DC%20Fan%2050x50x12.stl)
