@@ -3,20 +3,20 @@
 
 ---
 
-**KyraDock** is a smart, AI powered assistant built for developers. Inspired by devices like the Echo Show, it runs on a Raspberry Pi and gives you full control over how it works. From voice control and automation to running apps and managing smart home devices.
+**KyraDock** is a smart, AI powered assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
 
 ---
 
 ## **What Makes KyraDock Special?**
 
 * **Always on voice mode**:
-  Say “Hey Kyra” to wake it anytime
+  Just say “Hey Kyra” to wake it anytime
 
 * **ChatBot Powered by AI**:
   Kyra understands user language and replies using fast cloud based AI (like Groq).
 
 * **Voice Output**:
-  Kyra speaks back using a realistic female voice. If she’s talking and you say “Hey Kyra” again, she’ll stop right away and listen.
+  Kyra speaks back using a realistic female voice. if you interrupt the conversation, Kyra adapts to it.
 
 * **Takes Real Actions**:
   Kyra can fetch data (like jokes, facts, or weather), open apps, run scripts, control smart lights (Wi-Fi based), or call APIs to get things done.
@@ -31,22 +31,22 @@
   KyraDock can act as a mini NAS. just plug in a USB drive or hard disk, and access your files over the network.
 
 * **Remote Control Access**:
-  Comes with a mobile-friendly dashboard to control things remotely like run actions, trigger events, or check logs from anywhere.
+  Comes with a mobile friendly dashboard to control things remotely like run actions, trigger events, or check logs from anywhere.
 
 * **Made for Real Use**:
-  KyraDock handles scheduled tasks, background monitoring, API calls, and voice commands that actually do something useful.
+  KyraDock handles scheduled tasks, background monitoring, API calls, and external device controls.
 
 ---
 
-## What You’ll Need (Bill of Materials)
+## BOM
 
 | Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
 |--------------------------|-------------|-------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 5V Mini Cooling Fan     | ₹80       | $0.93      | Cooling Raspberry Pi	            | [Robocraze](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873) |
 | 5″ HDMI Touch Screen     | ₹2504       | $29.25      | Visual Display + Touch Input            | [Robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
 | 64GB SanDisk micro-SD    | ₹569        | $6.60       | OS and Storage                          | [Amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
-| HDMI to HDMI Cable       | ₹149        | $1.72       | For Display                             | [Amazon](https://amzn.in/d/6avwGWl)                                                                                          |
-| Amazon Basics 3W Speakers| ₹272        | $3.15       | Voice Output                            | [Amazon](https://amzn.in/d/egND9wG)                                                                                          |
+| HDMI to HDMI Cable       | ₹169        | $1.98       | For Display                             | [Amazon](https://amzn.in/d/6avwGWl)                                                                                          |
+| Amazon Basics 3W Speakers| ₹319        | $3.73       | Voice Output                            | [Amazon](https://amzn.in/d/egND9wG)                                                                                          |
 | Ambrane Micro USB Cable  | ₹149        | $1.73       | Power Display                           | [Amazon](https://amzn.in/d/fEbwvcv)                                                                                          |
 | Ambrane USB Type-C Cable | ₹169        | $1.96       | Power Raspberry Pi                      | [Amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
 | Wrap Sheet Film          | ₹288        | $3.34       | External Body Finish                    | [Amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
@@ -54,7 +54,7 @@
 | USB Hub                  | ₹279        | $3.22       | Extra USB Ports (Mic, Pendrive, etc.)   | [Amazon](https://amzn.in/d/aU5gpnw)                                                                                          |
 | Raspberry Pi 3 Model A+  | ₹2558       | $29.54      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-3-model-a?_pos=2&_psq=Raspberry+Pi+3+Model+A%2B&_ss=e&_v=1.0)   |
 | USB Microphone           | ₹567        | $6.58       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                | **₹7,709**   | **$89.32** | —                                       | —                                                                                                                            |
+| **Total**                | **₹7,810**   | **$91.34** | —                                       | —                                                                                                                            |
 
 ---
 
