@@ -10,7 +10,7 @@
 ## **What Makes KyraDock Special?**
 
 * **Always on voice mode**:
-  Just say “Hey Kyra” to wake it anytime
+  Just say “Hey Kyra” to wake it anytime using [custom voice model](https://github.com/Karandev2007/KyraDock/blob/remake/Code/models/hey-kyra_en_windows_v3_0_0.ppn)
 
 * **ChatBot Powered by AI**:
   Kyra understands user language and replies using fast cloud based AI (like Groq).
@@ -35,6 +35,9 @@
 
 * **Made for Real Use**:
   KyraDock handles scheduled tasks, background monitoring, API calls, and external device controls.
+
+* **Master Control Panel**:
+  A powerful on-device dashboard to monitor, control, and trigger custom actions using touchscreen display.
 
 ---
 
