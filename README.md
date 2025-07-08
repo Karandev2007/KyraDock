@@ -1,6 +1,6 @@
 KyraDock is a cool AI assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
 
-## Preview
+## Previews
 ![image](https://github.com/user-attachments/assets/f9651ffa-0434-4750-acb9-8c64d74bd921)
 ![image](https://github.com/user-attachments/assets/08131960-4dd7-4472-b939-eb99c91e4ca2)
 ![image](https://github.com/user-attachments/assets/3dfdade6-7934-494c-9fa7-f4bb8b8970a3)
