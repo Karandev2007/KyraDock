@@ -1,8 +1,3 @@
-# <img src="https://github.com/user-attachments/assets/a8f2f3c1-0965-422e-9f21-fbb6588ca2df" alt="KyraAI" width="25" height="25" /> KyraDock - Smart AI Assistant Device 
-![image](https://github.com/user-attachments/assets/eb03c991-78ed-4b81-a80c-4fb855df30ae)
-
----
-
 **KyraDock** is a smart, AI powered assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
 
 ---
