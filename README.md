@@ -1,5 +1,12 @@
 KyraDock is a cool AI assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
 
+## Preview
+![image](https://github.com/user-attachments/assets/f9651ffa-0434-4750-acb9-8c64d74bd921)
+![image](https://github.com/user-attachments/assets/08131960-4dd7-4472-b939-eb99c91e4ca2)
+![image](https://github.com/user-attachments/assets/3dfdade6-7934-494c-9fa7-f4bb8b8970a3)
+![image](https://github.com/user-attachments/assets/c7be6607-f842-4d90-bba7-c50dd164ff28)
+![image](https://github.com/user-attachments/assets/258d309f-ef7a-4017-aae8-2dd9df6771e8)
+
 ---
 
 ## BOM
@@ -21,15 +28,6 @@ KyraDock is a cool AI assistant, that gives you full control over how it works. 
 | Raspberry Pi 4 Model B (2GB RAM)  | ₹4599       | $53.53      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram)   |
 | USB Microphone           | ₹549        | $6.39       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
 | **Total**                | **₹9,871**   | **$114.89** | —                                       | —                                                                                                                            |
-
----
-
-## Preview
-![image](https://github.com/user-attachments/assets/f9651ffa-0434-4750-acb9-8c64d74bd921)
-![image](https://github.com/user-attachments/assets/08131960-4dd7-4472-b939-eb99c91e4ca2)
-![image](https://github.com/user-attachments/assets/3dfdade6-7934-494c-9fa7-f4bb8b8970a3)
-![image](https://github.com/user-attachments/assets/c7be6607-f842-4d90-bba7-c50dd164ff28)
-![image](https://github.com/user-attachments/assets/258d309f-ef7a-4017-aae8-2dd9df6771e8)
 
 ---
 ## CAD Models
