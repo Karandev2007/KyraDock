@@ -7,40 +7,6 @@
 
 ---
 
-## **What Makes KyraDock Special?**
-
-* **Always on voice mode**:
-  Just say “Hey Kyra” to wake it anytime using [custom voice model](https://github.com/Karandev2007/KyraDock/blob/remake/Code/models/hey-kyra_en_windows_v3_0_0.ppn)
-
-* **ChatBot Powered by AI**:
-  Kyra understands user language and replies using fast cloud based AI (like Groq).
-
-* **Voice Output**:
-  Kyra speaks back using a realistic female voice. if you interrupt the conversation, Kyra adapts to it.
-
-* **Takes Real Actions**:
-  Kyra can fetch data (like jokes, facts, or weather), open apps, run scripts, control smart lights (Wi-Fi based), or call APIs to get things done.
-
-* **Modular and Extendable**:
-  You can add new features by writing simple Python based addons.
-
-* **Home Control Ready**:
-  KyraDock can control Wi-Fi smart lights, plugs, or switches with voice control.
-
-* **NAS Server using Pendrive / Hard Drive**:
-  KyraDock can act as a mini NAS. just plug in a USB drive or hard disk, and access your files over the network.
-
-* **Remote Control Access**:
-  Comes with a mobile friendly dashboard to control things remotely like run actions, trigger events, or check logs from anywhere.
-
-* **Made for Real Use**:
-  KyraDock handles scheduled tasks, background monitoring, API calls, and external device controls.
-
-* **Master Control Panel**:
-  A powerful on-device dashboard to monitor, control, and trigger custom actions using touchscreen display.
-
----
-
 ## BOM
 
 | Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
