@@ -1,4 +1,4 @@
-**KyraDock** is a smart, AI powered assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
+KyraDock is a cool AI assistant, that gives you full control over how it works. from voice control and automation to running apps and managing smart home devices.
 
 ---
 
