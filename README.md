@@ -28,7 +28,13 @@ im using a voice model to get most accurate voice recognition, and cloud based p
 | USB Hub | ₹279 | $3.25 | [amazon](https://amzn.in/d/aU5gpnw) |
 | Raspberry Pi 4 Model B (2GB RAM) | ₹4599 | $53.53 | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram) |
 | USB Microphone | ₹549 | $6.39 | [amazon](https://amzn.in/d/2ZB8z9S) |
-| **Total** | **₹10,000** | **$116.61** | — |
+|---|---|---|---|
+
+Total:
+
+USD: $116.61
+
+INR: ₹10,000
 
 ---
 ## CAD Models
