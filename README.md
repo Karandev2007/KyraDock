@@ -19,22 +19,21 @@ im using a voice model to get most accurate voice recognition, and cloud based p
 | 5 Inch HDMI Touch Screen | ₹2504 | $29.14 | [robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
 | 64GB SanDisk micro-SD | ₹579 | $6.74 | [amazon](https://amzn.in/d/4g1hGiB) |
 | HDMI to Micro HDMI Cable | ₹139 | $1.62 | [robocraze](https://robocraze.com/products/hdmi-to-micro-hdmi-cable) |
-| Multi Screwdriver | ₹178 | $2.07 | [amazon](https://amzn.in/d/0Cl2Gkp) |
 | Amazon Basics 3W Speakers | ₹319 | $3.72 | [amazon](https://amzn.in/d/aEGdi9v) |
-| Ambrane Micro USB Cable | ₹149 | $1.73 | [amazon](https://amzn.in/d/fEbwvcv) |
-| Ambrane USB Type-C Cable | ₹169 | $1.97 | [amazon](https://amzn.in/d/1RGyZ3g) |
+| Ambrane Micro USB Cable | ₹180 | $2.10 | [amazon](https://amzn.in/d/fEbwvcv) |
+| Ambrane USB Type-C Cable | ₹212 | $2.47 | [amazon](https://amzn.in/d/1RGyZ3g) |
 | Wrap Sheet Film | ₹288 | $3.35 | [amazon](https://amzn.in/d/ezTv9b7) |
 | Glue Sticks | ₹150 | $1.75 | [amazon](https://amzn.in/d/bpFMA49) |
 | USB Hub | ₹279 | $3.25 | [amazon](https://amzn.in/d/aU5gpnw) |
 | Raspberry Pi 4 Model B (2GB RAM) | ₹4599 | $53.53 | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram) |
-| USB Microphone | ₹549 | $6.39 | [amazon](https://amzn.in/d/2ZB8z9S) |
+| USB Microphone | ₹597 | $6.96 | [amazon](https://amzn.in/d/2ZB8z9S) |
 |---|---|---|---|
 
 Total:
 
-USD: $116.61
+USD: $115.89
 
-INR: ₹10,000
+INR: ₹9,944
 
 ---
 ## CAD Models
