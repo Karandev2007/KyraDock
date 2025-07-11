@@ -1,17 +1,22 @@
-| Component                 | Price (INR) | Price (USD) | Purpose                                 | Buy Link                                                                                                                    |
-|--------------------------|-------------|-------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 5V Mini Cooling Fan     | ₹80       | $0.93      | Cooling Raspberry Pi	            | [Robocraze](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873) |
-| Heat Sink     | ₹18       | $0.21      | Thermal management	            | [Robocraze](https://robocraze.com/products/raspberry-pi-3-in-1-heat-sink-aluminium-for-raspberry-pi-4b-white-pack-of-1) |
-| 5 Inch HDMI Touch Screen     | ₹2504       | $29.14      | Visual Display + Touch Input            | [Robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
-| 64GB SanDisk micro-SD    | ₹579        | $6.74       | OS and Storage                          | [Amazon](https://amzn.in/d/4g1hGiB)                                                                                          |
-| HDMI to Micro HDMI Cable       | ₹139        | $1.62       | For Display Connection                             | [Robocraze](https://robocraze.com/products/hdmi-to-micro-hdmi-cable)                                                                                          |
-| Multi Screwdriver       | ₹178        | $2.07       | Utility tool                             | [Amazon](https://amzn.in/d/0Cl2Gkp)                                                                                          |
-| Refurbished Amazon Basics 3W Speakers | ₹190        | $2.21       | Voice Output                            | [Amazon](https://amzn.in/d/8TOaCsq)                                                                                          |
-| Ambrane Micro USB Cable  | ₹149        | $1.73       | Power Display                           | [Amazon](https://amzn.in/d/fEbwvcv)                                                                                          |
-| Ambrane USB Type-C Cable | ₹169        | $1.97       | Power Raspberry Pi                      | [Amazon](https://amzn.in/d/1RGyZ3g)                                                                                          |
-| Wrap Sheet Film          | ₹288        | $3.35       | External Body Finish                    | [Amazon](https://amzn.in/d/ezTv9b7)                                                                                          |
-| Glue Sticks              | ₹150        | $1.75       | Assemble Components                           | [Amazon](https://amzn.in/d/bpFMA49)                                                                                          |
-| USB Hub                  | ₹279        | $3.25       | To insert mic, drives externally   | [Amazon](https://amzn.in/d/aU5gpnw)                                                                                          |
-| Raspberry Pi 4 Model B (2GB RAM)  | ₹4599       | $53.53      | Main Controller Board                   | [Robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram)   |
-| USB Microphone           | ₹549        | $6.39       | Voice Input                             | [Amazon](https://amzn.in/d/2ZB8z9S)                                                                                          |
-| **Total**                | **₹9,871**   | **$114.89** | —                                       | —                                                                                                                            |
+| Components | Price (INR) | Price (USD) | Buy Link |
+|---|---|---|---|
+| 5V Mini Cooling Fan | ₹80 | $0.93 | [robocraze](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873) |
+| Heat Sink | ₹18 | $0.21 | [robocraze](https://robocraze.com/products/raspberry-pi-3-in-1-heat-sink-aluminium-for-raspberry-pi-4b-white-pack-of-1) |
+| 5 Inch HDMI Touch Screen | ₹2504 | $29.14 | [robocraze](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513) |
+| 64GB SanDisk micro-SD | ₹579 | $6.74 | [amazon](https://amzn.in/d/4g1hGiB) |
+| HDMI to Micro HDMI Cable | ₹139 | $1.62 | [robocraze](https://robocraze.com/products/hdmi-to-micro-hdmi-cable) |
+| Amazon Basics 3W Speakers | ₹319 | $3.72 | [amazon](https://amzn.in/d/aEGdi9v) |
+| Ambrane Micro USB Cable | ₹180 | $2.10 | [amazon](https://amzn.in/d/fEbwvcv) |
+| Ambrane USB Type-C Cable | ₹212 | $2.47 | [amazon](https://amzn.in/d/1RGyZ3g) |
+| Wrap Sheet Film | ₹288 | $3.35 | [amazon](https://amzn.in/d/ezTv9b7) |
+| Glue Sticks | ₹150 | $1.75 | [amazon](https://amzn.in/d/bpFMA49) |
+| USB Hub | ₹279 | $3.25 | [amazon](https://amzn.in/d/aU5gpnw) |
+| Raspberry Pi 4 Model B (2GB RAM) | ₹4599 | $53.53 | [robocraze](https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram) |
+| USB Microphone | ₹597 | $6.96 | [amazon](https://amzn.in/d/2ZB8z9S) |
+|---|---|---|---|
+
+Total:
+
+USD: $115.89
+
+INR: ₹9,944
