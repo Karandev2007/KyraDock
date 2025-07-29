@@ -14,6 +14,7 @@ KyraDock is a Powerful developer friendly AI Assistant device, that have super u
 I have more ideas with this like music visualizer on screen, custom animations of a custom avatar to represent to user for actions, gesture controls and more.
 
 ## Previews
+![image](https://github.com/user-attachments/assets/e57cce06-81c3-42ef-97f9-ed93bc0f24d2)
 ![image](https://github.com/user-attachments/assets/f9651ffa-0434-4750-acb9-8c64d74bd921)
 ![image](https://github.com/user-attachments/assets/08131960-4dd7-4472-b939-eb99c91e4ca2)
 ![image](https://github.com/user-attachments/assets/3dfdade6-7934-494c-9fa7-f4bb8b8970a3)
