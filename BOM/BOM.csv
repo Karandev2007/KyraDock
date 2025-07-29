@@ -1,15 +1,23 @@
 Component,Price (INR),Price (USD),Purpose,URL
-5V Mini Cooling Fan,80,0.93,Cooling Raspberry Pi,https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873
+5V Mini Cooling Fan,80,0.93,Cooling the main board,https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873
 Heat Sink,18,0.21,Thermal management,https://robocraze.com/products/raspberry-pi-3-in-1-heat-sink-aluminium-for-raspberry-pi-4b-white-pack-of-1
-5 Inch HDMI Touch Screen,2504,29.14,Visual Display + Touch Input,https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module?variant=40193802895513
-64GB SanDisk micro-SD,579,6.74,OS and Storage,https://amzn.in/d/4g1hGiB
-HDMI to Micro HDMI Cable,139,1.62,For Display Connection,https://robocraze.com/products/hdmi-to-micro-hdmi-cable
-Amazon Basics 3W Speakers,319,3.72,Voice Output,https://amzn.in/d/aEGdi9v
-Ambrane Micro USB Cable,180,2.10,Power Display,https://amzn.in/d/fEbwvcv
-Ambrane USB Type-C Cable,212,2.47,Power Raspberry Pi,https://amzn.in/d/1RGyZ3g
-Wrap Sheet Film,288,3.35,External Body Finish,https://amzn.in/d/ezTv9b7
-Glue Sticks,150,1.75,Assemble Components,https://amzn.in/d/bpFMA49
-USB Hub,279,3.25,"To insert mic, drives externally",https://amzn.in/d/aU5gpnw
-Raspberry Pi 4 Model B (2GB RAM),4599,53.53,Main Controller Board,https://robocraze.com/products/raspberry-pi-4-model-b-2gb-ram
-USB Microphone,597,6.96,Voice Input,https://amzn.in/d/2ZB8z9S
-Total,9944,115.89,_,_
+5 Inch HDMI Touch Screen,2536,29.23,Visual Display + Touch Input,https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module
+Vision Camera Module,2000,23.05,Image/Video Input,#
+10x M3.5 Screws,13.50,0.16,Assembly/Mounting components,https://makerbazar.in/products/stainless-steel-self-tapping-screws?variant=46440555282672
+64GB SanDisk micro-SD,579,6.67,OS and Storage,https://amzn.in/d/4g1hGiB
+HDMI to Micro HDMI Cable,139,1.60,For Display Connection,https://robocraze.com/products/hdmi-to-micro-hdmi-cable
+2x 3-Watt Speakers,200,2.31,Audio Output,https://makerbazar.in/products/speaker-4-ohm-3-watt-2-inch-external-magnet-speaker?variant=47448108859632
+Type-2 Stereo player,129,1.49,Audio amplification/Bluetooth,https://makerbazar.in/products/bluetooth-loud-speaker-audio-music-player?variant=46638954840304
+Ribbon Cable Wire,26,0.30,Internal wiring/connections,https://makerbazar.in/products/multi-coloured-ribbon-cable-wire?variant=40914898813079
+Knob-202 Potentiometer Knob,8,0.092,User control (e.g., volume),https://makerbazar.in/products/premium-knob-202-multiple-colour-potentiometer-knob-with-buffer
+Micro Cable,149,1.72,Powering peripherals,https://amzn.in/d/fEbwvcv
+Type-C Cable,119,1.37,Powering main board,https://amzn.in/d/1RGyZ3g
+Glue Sticks,150,1.73,Assembling components,https://amzn.in/d/bpFMA49
+TA200U USB Hub,269,3.10,Port expansion,https://amzn.in/d/gjHRpZd
+Radxa ZERO 3W (1GB),2030,23.40,Main Controller Board,https://evelta.com/radxa-zero-3w-tiny-rk3566-sbc/
+USB Microphone,567,6.53,Voice Input,https://amzn.in/d/77hHtXo
+,,,,
+Subtotal,9012.5,103.89,,
+Shipping and Fees,149,1.72,Vendor shipping costs,
+,,,,
+Total,9161,105.57,Final cost including GST & other taxes,
