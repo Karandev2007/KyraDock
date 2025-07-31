@@ -66,4 +66,8 @@
 ### June 17 — Time Spent: 2 hours
 * Started work on Kyra assistant code, added basic wakeup word and ai question.
 
-Total time spent: 24.16 hours
+## July 29 - Time Spend: 3 hours
+* optimized BOM, on same cost added more components for more features, including, ai vision, multi-purpose speaker setup with bluetooth support.
+<img width="1041" height="639" alt="image" src="https://github.com/user-attachments/assets/3e28d53c-0ea2-4b94-b2da-526b12a2dc15" />
+
+Total time spent: 27.16 hours
