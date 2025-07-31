@@ -29,7 +29,7 @@ I have more ideas with this like music visualizer on screen, custom animations o
 | 5V Mini Cooling Fan | ₹80 | $0.93 | [link](https://robocraze.com/products/5v-mini-fan-for-raspberry-pi?variant=40192541982873) |
 | Heat Sink | ₹18 | $0.21 | [link](https://robocraze.com/products/raspberry-pi-3-in-1-heat-sink-aluminium-for-raspberry-pi-4b-white-pack-of-1) |
 | 5 Inch HDMI Touch Screen | ₹2536 | $29.23 | [link](https://robocraze.com/products/5-inch-lcd-hdmi-touch-screen-display-tft-lcd-panel-module) |
-| Vision Camera Module | ₹2000 | $23.05 | [link](#) |
+| Radxa Camera 8M IMX219 | ₹2000 | $23.05 | [link](https://evelta.com/radxa-camera-8m-imx219-for-raspberry-pi-rock-series/) |
 | 10x M3.5 Screws | ₹13.50 | $0.16 | [link](https://makerbazar.in/products/stainless-steel-self-tapping-screws?variant=46440555282672) |
 | 64GB SanDisk micro-SD | ₹579 | $6.67 | [link](https://amzn.in/d/4g1hGiB) |
 | HDMI to Micro HDMI Cable | ₹139 | $1.60 | [link](https://robocraze.com/products/hdmi-to-micro-hdmi-cable) |
@@ -50,6 +50,8 @@ Total (Including GST & other Taxes) (After Discount on robocraze cart):
 
 USD: $105.57 / INR: ₹9,161
 
+
+> Radxa Camera 8M IMX219 seems stock out at time of making this BOM, so im taking 3$ extra to get another one just incase or i will nicely wait for it to come in stock again.
 ---
 
 ## CAD Models
